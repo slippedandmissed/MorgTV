@@ -15,6 +15,7 @@ app.get("/heart", (req, res) => {
 
 app.post("/url", (req, res) => {
   savedURL = req.body.url;
+  res.send("Success");
 });
 
 app.get("/url", (req, res) => {
