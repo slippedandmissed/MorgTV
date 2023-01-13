@@ -5,7 +5,7 @@ import 'package:morg_tv/models/beat.dart';
 import 'package:morg_tv/models/url_response.dart';
 import 'package:riverpod/riverpod.dart';
 
-const apiURL = "morg-tv-i9yq.vercel.app";
+const apiURL = "fire-tv-374615.ew.r.appspot.com";
 
 FutureProvider<Map<String, Object?>> _get(
   String endpoint, {
