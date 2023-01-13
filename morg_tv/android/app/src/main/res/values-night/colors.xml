@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#ffc1c1</color>
+    <color name="launcher_background">#ffc1c1</color>
+    <color name="lb_control_button_color">#ffc1c1</color>
+    <color name="background">#ffc1c1</color>
+</resources>
